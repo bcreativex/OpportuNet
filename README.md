@@ -4,7 +4,7 @@ Fetching git code to local system:
 
 - Clone the repository from GitHub:
     ```
-    git clone https://github.com/Anikesh02/OpportuNet.git
+    git clone https://github.com/bcreativex/OpportuNet.git
     ```
     
 For Frontend: 
